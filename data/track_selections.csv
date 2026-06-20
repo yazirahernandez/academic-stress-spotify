@@ -1,0 +1,801 @@
+student_id,week_number,week_type,spotify_track_id,track_name,artist_name,energy,valence
+STU001,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU001,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU001,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU001,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU001,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU001,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU001,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU001,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU001,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU001,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU001,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU001,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU001,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU001,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU001,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU001,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU002,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU002,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU002,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU002,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU002,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU002,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU002,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU002,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU002,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU002,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU002,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU002,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU002,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU002,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU002,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU002,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU003,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU003,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU003,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU003,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU003,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU003,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU003,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU003,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU003,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU003,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU003,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU003,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU003,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU003,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU003,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU003,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU004,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU004,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU004,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU004,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU004,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU004,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU004,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU004,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU004,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU004,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU004,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU004,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU004,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU004,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU004,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU004,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU005,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU005,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU005,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU005,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU005,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU005,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU005,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU005,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU005,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU006,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU006,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU006,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU006,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU006,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU006,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU006,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU006,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU006,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU007,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU007,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU007,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU007,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU007,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU007,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU007,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU007,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU008,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU008,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU008,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU008,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU008,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU008,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU008,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU008,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU008,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU009,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU009,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU009,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU009,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU009,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU009,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU009,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU009,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU009,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU009,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU009,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU009,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU009,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU009,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU009,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU009,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU010,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU010,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU010,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU010,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU010,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU010,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU010,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU010,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU010,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU011,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU011,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU011,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU011,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU011,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU011,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU011,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU011,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU011,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU011,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU011,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU011,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU011,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU011,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU011,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU011,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU012,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU012,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU012,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU012,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU012,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU012,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU012,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU012,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU012,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU013,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU013,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU013,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU013,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU013,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU013,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU013,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU013,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU013,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU014,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU014,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU014,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU014,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU014,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU014,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU014,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU014,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU014,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU014,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU014,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU014,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU014,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU014,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU014,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU014,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU015,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU015,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU015,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU015,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU015,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU015,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU015,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU015,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU016,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU016,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU016,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU016,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU016,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU016,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU016,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU016,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU016,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU017,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU017,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU017,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU017,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU017,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU017,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU017,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU017,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU017,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU018,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU018,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU018,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU018,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU018,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU018,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU018,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU018,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU018,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU018,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU018,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU018,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU018,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU018,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU018,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU018,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU019,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU019,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU019,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU019,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU019,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU019,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU019,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU019,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU019,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU020,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU020,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU020,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU020,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU020,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU020,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU020,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU020,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU020,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU021,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU021,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU021,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU021,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU021,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU021,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU021,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU021,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU021,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU021,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU021,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU021,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU021,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU021,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU021,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU021,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU022,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU022,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU022,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU022,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU022,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU022,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU022,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU022,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU022,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU022,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU022,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU022,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU022,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU022,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU022,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU022,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU023,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU023,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU023,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU023,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU023,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU023,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU023,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU023,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU023,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU023,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU023,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU023,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU023,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU023,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU023,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU023,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU024,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU024,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU024,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU024,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU024,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU024,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU024,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU024,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU024,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU024,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU024,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU024,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU024,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU024,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU024,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU024,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU025,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU025,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU025,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU025,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU025,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU025,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU025,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU025,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU025,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU025,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU025,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU025,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU025,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU025,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU025,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU025,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU026,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU026,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU026,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU026,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU026,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU026,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU026,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU026,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU026,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU026,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU026,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU026,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU026,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU026,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU026,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU026,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU027,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU027,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU027,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU027,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU027,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU027,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU027,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU027,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU027,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU028,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU028,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU028,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU028,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU028,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU028,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU028,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU028,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU028,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU028,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU028,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU028,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU028,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU028,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU028,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU028,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU029,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU029,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU029,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU029,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU029,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU029,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU029,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU029,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU029,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU029,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU029,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU029,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU029,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU029,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU029,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU029,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU030,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU030,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU030,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU030,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU030,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU030,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU030,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU030,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU030,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU030,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU030,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU030,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU030,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU030,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU030,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU030,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU031,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU031,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU031,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU031,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU031,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU031,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU031,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU031,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU031,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU032,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU032,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU032,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU032,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU032,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU032,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU032,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU032,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU032,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU033,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU033,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU033,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU033,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU033,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU033,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU033,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU033,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU033,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU033,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU033,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU033,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU033,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU033,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU033,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU033,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU034,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU034,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU034,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU034,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU034,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU034,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU034,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU034,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU034,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU034,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU034,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU034,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU034,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU034,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU034,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU034,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU035,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU035,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU035,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU035,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU035,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU035,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU035,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU035,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU035,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU036,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU036,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU036,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU036,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU036,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU036,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU036,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU036,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU037,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU037,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU037,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU037,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU037,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU037,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU037,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU037,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU037,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU038,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU038,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU038,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU038,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU038,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU038,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU038,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU038,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU038,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU038,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU038,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU038,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU038,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU038,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU038,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU038,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU039,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU039,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU039,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU039,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU039,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU039,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU039,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU039,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU039,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU039,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU039,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU039,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU039,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU039,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU039,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU039,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU040,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU040,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU040,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU040,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU040,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU040,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU040,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU040,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU040,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU040,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU040,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU040,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU040,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU040,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU040,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU040,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU041,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU041,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU041,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU041,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU041,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU041,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU041,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU041,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU041,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU041,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU041,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU041,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU041,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU041,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU041,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU041,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU042,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU042,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU042,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU042,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU042,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU042,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU042,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU042,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU042,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU042,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU042,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU042,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU042,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU042,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU042,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU042,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU043,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU043,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU043,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU043,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU043,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU043,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU043,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU043,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU043,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,3,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU044,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU044,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU044,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU044,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU044,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU044,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU044,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU044,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU045,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU045,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,6,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU045,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU045,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU045,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU045,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU045,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU045,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU046,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU046,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU046,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU046,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU046,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU046,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU046,7,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU046,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU046,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU046,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU046,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU046,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU046,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU046,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU046,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU046,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU047,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU047,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU047,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU047,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU047,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU047,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU047,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU047,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU047,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU047,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU047,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU047,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU047,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU047,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU047,15,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU047,16,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU048,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU048,2,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU048,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU048,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU048,5,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU048,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU048,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU048,8,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU048,9,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU048,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU048,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU048,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU048,13,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU048,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU048,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU048,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,1,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU049,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU049,4,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU049,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU049,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU049,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,10,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU049,11,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,12,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,14,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU049,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU049,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,1,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,2,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,3,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU050,4,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,5,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,6,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,7,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU050,8,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU050,9,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,10,high-stress,track_hs_001,Eye of the Tiger,Survivor,0.96,0.51
+STU050,11,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU050,12,normal,track_nm_001,Blinding Lights,The Weeknd,0.73,0.64
+STU050,13,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,14,high-stress,track_hs_002,Pumped Up Kicks,Foster the People,0.75,0.49
+STU050,15,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
+STU050,16,normal,track_nm_002,Good as Hell,Lizzo,0.68,0.85
