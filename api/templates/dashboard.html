@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Academic Music Intelligence</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #0f0f0f;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background: #1db954;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .container {
+            padding: 20px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .card {
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 12px;
+        }
+
+        .big {
+            font-size: 28px;
+            color: #1db954;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header">
+    🎧 Academic Stress Music Intelligence
+</div>
+
+<div class="container">
+
+    <div class="card">
+        <h2>📊 Insights</h2>
+        <p>Avg Tempo (Stress): <span class="big">{{tempo}}</span></p>
+        <p>Avg Energy (Stress): <span class="big">{{energy}}</span></p>
+    </div>
+
+    <div class="card">
+        <h2>🧠 Conclusion</h2>
+        <p>{{conclusion}}</p>
+    </div>
+
+    <div class="card">
+        <h2>🎧 Recommendations</h2>
+        <ul>
+            {% for r in recommendations %}
+                <li>{{r}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
