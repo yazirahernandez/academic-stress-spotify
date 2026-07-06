@@ -1,1 +1,16 @@
-{"avg_tempo": 120.75545333849638, "avg_energy": 0.5862389247158635}
+{
+  "avg_tempo_stress": 128.58027144349865,
+  "avg_tempo_normal": 121.7322054264971,
+  "avg_energy_stress": 0.701027330627027,
+  "avg_energy_normal": 0.6042030249948661,
+  "stress_behavior": "Higher stimulation music during stress periods",
+  "peak_stress_deadline": "Project 2 Deadline",
+  "peak_stress_deadline_energy": 0.7265189010463415,
+  "mood": "stress",
+  "playlist_type": "calming regulation",
+  "recommendations": [
+    "Lo-fi beats",
+    "Ambient study music",
+    "Soft piano focus"
+  ]
+}

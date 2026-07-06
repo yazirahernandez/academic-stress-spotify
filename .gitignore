@@ -11,3 +11,10 @@ dist/
 build/
 .DS_Store
 venv/
+
+# Pipeline intermediate artifacts (regenerated on every DAG run —
+# only the real source CSV and the final insights.json matter here)
+data/raw_spotify.json
+data/raw_calendar.json
+data/clean.json
+data/metrics.json
